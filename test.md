@@ -1,5 +1,5 @@
 # inizia lo sviluppo
 
-un'altra cosa
+un'altra cosa brutta
 
 wow
