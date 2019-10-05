@@ -1,5 +1,5 @@
 # inizia lo sviluppo
 
-che bello
+che brutto
 
 wow
